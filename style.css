@@ -1,0 +1,89 @@
+
+.container{
+   
+    margin: auto;
+    
+    
+}.fountmain{
+  /* font-family: "Times New Roman", Times, serif */
+  font-family: "Lucida Console", "Courier New", monospace;
+}section{
+  width: 100%;
+}.left{
+  float: left;
+  margin: auto;
+
+}.right{
+   margin: auto;
+}.react{
+   margin: auto;
+}.card{
+ 
+  
+  margin:auto;
+}.card{
+  margin:auto;
+}.logos{
+  float: right;
+}.card-img-top{
+ height: 121px;
+  
+
+}.youtube{
+  float: left;
+  margin: auto;
+}.footer{
+  margin: auto;
+}.linebr{  
+  margin: auto;
+
+}
+.form{
+  float: left;
+  margin: auto;
+  
+}.cmmt-box{
+  height: 70px;
+  
+}#comments{
+  border-color: rgba(128, 128, 128, 0.226);
+  border-style: solid;
+  width: 220px;
+}input{
+  border-color: rgba(128, 128, 128, 0.315);
+  border-style: solid;
+  width: 220px;
+}.btn{
+ float: right;
+  
+  
+}.home{
+  margin: auto;
+}.navbaa{
+  width:100%;
+  padding: auto;
+}.bdy{
+  margin: 2%;
+}.input-val{
+  width: 100%;
+  border: cornflowerblue;
+  border-radius: 6px;
+  
+  margin: auto;
+}
+#tophead{
+  z-index: 1;
+  background-color: blanchedalmond;
+}.card-text{
+   font-family: "Times New Roman", Times, serif
+}
+.bak-img{
+  height:auto;
+  width: auto;
+  background-image: url("https://images.unsplash.com/photo-1622629797619-c100e3e67e2e?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjV8fHN3aW1taW5nfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&w=1000&q=80");
+  object-fit: cover;
+  -o-object-fit: cover;
+  background-position: center;
+}#btn-cmt{
+
+}
